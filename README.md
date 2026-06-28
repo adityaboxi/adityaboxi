@@ -61,15 +61,15 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a> &nbsp;
   <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/AdityaBhdo" target="_blank">
+ <!-- <a href="https://codeforces.com/profile/AdityaBhdo" target="_blank">-->
     <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a> &nbsp;
   <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/adityaboxi" target="_blank">
+  <!--   <a href="https://www.codechef.com/users/adityaboxi" target="_blank">-->
     <img src="https://img.shields.io/badge/-CodeChef-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a> &nbsp;
   <!-- GeeksforGeeks -->
-  <a href="https://www.geeksforgeeks.org/profile/krishnab5xfd?tab=activity" target="_blank">
+  <!--  <a href="https://www.geeksforgeeks.org/profile/krishnab5xfd?tab=activity" target="_blank">-->
     <img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </p>
