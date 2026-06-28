@@ -16,6 +16,20 @@
 
 ---
 
+## Connect with me:
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aditya-boxi-46a210337/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp;
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@AdityaBoxiNITRaipur" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+---
+
 ## Languages and Tools:
 <p align="left">
   <!-- C++ -->
