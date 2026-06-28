@@ -45,6 +45,28 @@
   <!-- Express -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45" style="background-color: white; border-radius: 4px; padding: 2px;"/>
+  </a> &nbsp;
+  <!-- Docker -->
+  <a href="https://hub.docker.com/repositories/adityaisme" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+## Coding Profiles & Competitive Programming:
+<p align="left">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Adityaboxi123/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a> &nbsp;
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/AdityaBhdo" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a> &nbsp;
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/profile/krishnab5xfd?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </p>
 
