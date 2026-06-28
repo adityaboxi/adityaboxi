@@ -57,7 +57,7 @@
 ## Coding Profiles & Competitive Programming:
 <p align="left">
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Adityaboxi123/" target="_blank">
+ <!-- <a href="https://leetcode.com/u/Adityaboxi123/" target="_blank"> -->
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a> &nbsp;
   <!-- Codeforces -->
