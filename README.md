@@ -83,7 +83,8 @@
     <img src="https://img.shields.io/badge/-CodeChef-5B4636?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
   </a> &nbsp;
   <!-- GeeksforGeeks -->
-  <!--  <a href="" target="_blank">-->
+<a href="https://www.geeksforgeeks.org/profile/krishnab5xfd?tab=activity" target="_blank">
+  
     <img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </p>
