@@ -17,7 +17,7 @@
   <a href="https://codeforces.com/profile/AdityaBhdo" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/dashboard" target="_blank">
+  <a href="https://www.codechef.com/users/adityaboxi" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4636?style=flat-square&logo=codechef&logoColor=white" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/krishnab5xfd?tab=activity" target="_blank">
@@ -58,4 +58,3 @@
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaboxi&theme=tokyonight&hide_border=true" height="170" />
 </p>
-
