@@ -29,9 +29,9 @@
 
 ### About Me
 
-- 🔧 &nbsp;Building scalable backend systems and full-stack web applications
-- ⚙️ &nbsp;Strong foundations in algorithms, data structures, and systems design
-- 🌐 &nbsp;Working with the JavaScript ecosystem — React, Node.js, Express
+- 🧠 &nbsp;First-principles thinker — I break problems down to fundamentals before building up
+- 🏗️ &nbsp;Passionate about system design, scalable architectures, and backend engineering
+- 🌐 &nbsp;Building full-stack web applications with the JavaScript ecosystem
 - 🏆 &nbsp;Active competitive programmer on Codeforces, LeetCode, and CodeChef
 
 ---
@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 </p>
 
 ---
