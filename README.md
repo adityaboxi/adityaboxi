@@ -11,12 +11,6 @@
   <a href="https://www.youtube.com/@AdityaBoxiNITRaipur" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
-  <a href="mailto:krishnaboxi1983@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/krishnaboxi1983@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:adityaboxi2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/adityaboxi2005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/u/Adityaboxi123/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
@@ -63,5 +57,17 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
+---
 
+### Contact
+
+<p>
+  <a href="mailto:krishnaboxi1983@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/krishnaboxi1983@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:adityaboxi2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/adityaboxi2005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
