@@ -11,6 +11,9 @@
   <a href="https://www.youtube.com/@AdityaBoxiNITRaipur" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
+  <a href="https://www.chess.com/member/BatmanBoxi" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-7FA650?style=flat-square&logo=chessdotcom&logoColor=white" />
+  </a>
   <a href="https://leetcode.com/u/Adityaboxi123/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
@@ -102,6 +105,3 @@
     <img src="https://img.shields.io/badge/adityaboxi2005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-https://www.chess.com/member/BatmanBoxi
-
